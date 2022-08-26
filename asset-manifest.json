@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quarantine-NavBar-Cott/static/css/main.9ff23e91.css",
+    "main.js": "/Quarantine-NavBar-Cott/static/js/main.88027e7b.js",
+    "index.html": "/Quarantine-NavBar-Cott/index.html",
+    "main.9ff23e91.css.map": "/Quarantine-NavBar-Cott/static/css/main.9ff23e91.css.map",
+    "main.88027e7b.js.map": "/Quarantine-NavBar-Cott/static/js/main.88027e7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff23e91.css",
+    "static/js/main.88027e7b.js"
+  ]
+}
